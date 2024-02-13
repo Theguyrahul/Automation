@@ -1,5 +1,4 @@
 baseurl = "https://www.ixigo.com/trains"
-driver_path = "D:\Rahul\My_projects\Automation\chromedriver-win64\chromedriver.exe"
 month_dict = {"01":"jan",
               "02":"feb",
               "03":"mar",
